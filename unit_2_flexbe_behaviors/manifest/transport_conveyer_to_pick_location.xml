@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="transport_conveyer_to_pick_location">
+
+	<executable package_path="unit_2_flexbe_behaviors.transport_conveyer_to_pick_location_sm" class="transport_conveyer_to_pick_locationSM" />
+	<tagstring></tagstring>
+	<author>Menno Spriensma</author>
+	<date>Thu May 27 2021</date>
+	<description>
+		Deze toestandsmachine zet de transportband aan totdat er een part aan
+komt op de plaats waar je het wilt oppakken met een robot.
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>
